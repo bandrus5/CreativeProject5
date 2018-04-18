@@ -11,6 +11,7 @@
     <div v-else>
       <welcome-page/>
     </div>
+    <p style="text-align: center;">Code can be found at <a target="blank" style="text-decoration: underline;color: black;"href="https://github.com/bandrus5/CreativeProject5"> https://github.com/bandrus5/CreativeProject5</a></p>
   </div>
 </template>
 
